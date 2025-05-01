@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
  {
-        "identifier": "Unknownz",
-        "password": "unknownz",
-        "host": "de1.bot-hosting.net",
-        "port":  20773,
+        "identifier": "XX",
+        "password": "haibao",
+        "host": "wintr.pylex.xyz",
+        "port":  11655,
         "secure": false
       }
   ]
