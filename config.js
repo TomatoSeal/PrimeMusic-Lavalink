@@ -16,11 +16,11 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-{
-      name: "music",
-      password: "haibao",
-      host: "wintr.pylex.xyz",
-      port:  11655,
+{ 
+      name: "saher",
+      password: "saher.inzeworld.com",
+      host: "lava.inzeworld.com",
+      port: 3128,
       secure: false
     }
   ]
