@@ -16,12 +16,12 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
- {
-        "identifier": "XX",
-        "password": "haibao",
-        "host": "wintr.pylex.xyz",
-        "port":  11655,
-        "secure": false
-      }
+{
+      name: "GlaceYT",
+      password: "glaceyt",
+      host: "193.226.78.187",
+      port:  9372,
+      secure: false
+    }
   ]
 }
