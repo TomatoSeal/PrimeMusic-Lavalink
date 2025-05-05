@@ -16,11 +16,11 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-{ 
-      name: "saher",
-      password: "saher.inzeworld.com",
-      host: "lava.inzeworld.com",
-      port: 3128,
+{
+      name: "GlaceYT",
+      password: "glaceyt",
+      host: "193.226.78.187",
+      port:  3543,
       secure: false
     }
   ]
